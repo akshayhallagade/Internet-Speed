@@ -2,4 +2,4 @@
 Check out internet upload and download speed of your net.
 
 Install Library: Speedtest
-  type "pip install speedtest.cli"
+type "pip install speedtest.cli"
