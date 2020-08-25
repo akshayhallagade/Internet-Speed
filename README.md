@@ -1,4 +1,4 @@
-# Internet-Speed
+# Check out Internet-Speed
 Check out internet upload and download speed of your net.
 
 Install Library: Speedtest
